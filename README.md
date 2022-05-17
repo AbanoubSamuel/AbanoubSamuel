@@ -1,6 +1,3 @@
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-
-
 <h1 align="center">Hi 👋, I'm Abanoub</h1>
 <h3 align="center">A passionate Penetration Tester and CTF player who has a strong passion of Cyber Security and Red Teaming, learning continually to sharpen my Offensive Security skills, obtain my OSCP and put my hands on the first Cyber Security role.</h3>
 
