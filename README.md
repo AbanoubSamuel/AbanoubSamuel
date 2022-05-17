@@ -24,10 +24,9 @@
 
 - 📫 How to reach me **abanoub.samuel@hotmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/abanoubsml](https://www.linkedin.com/in/abanoubsml)
+- 📄 Know about my experiences [https://www.linkedin.com/in/abanoubsamuel](https://www.linkedin.com/in/abanoubsamuel)
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="abanoubsamuel" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://eg.linkedin.com/in/abanoubsamuel?trk=profile-badge">Abanoub Samuel 🛡️</a></div>
-              
+   
               
   
 
