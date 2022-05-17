@@ -1,5 +1,6 @@
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
+
 <h1 align="center">Hi 👋, I'm Abanoub</h1>
 <h3 align="center">A passionate Penetration Tester and CTF player who has a strong passion of Cyber Security and Red Teaming, learning continually to sharpen my Offensive Security skills, obtain my OSCP and put my hands on the first Cyber Security role.</h3>
 
@@ -25,7 +26,8 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/abanoubsml](https://www.linkedin.com/in/abanoubsml)
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="abanoubsml" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://eg.linkedin.com/in/abanoubsml?trk=profile-badge">Abanoub Samuel 🛡️</a></div>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="abanoubsamuel" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://eg.linkedin.com/in/abanoubsamuel?trk=profile-badge">Abanoub Samuel 🛡️</a></div>
+              
               
   
 
