@@ -25,7 +25,8 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/abanoubsml](https://www.linkedin.com/in/abanoubsml)
 
-- <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="abanoubsml" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://eg.linkedin.com/in/abanoubsml?trk=profile-badge">Abanoub Samuel 🛡️</a></div>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="abanoubsml" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://eg.linkedin.com/in/abanoubsml?trk=profile-badge">Abanoub Samuel 🛡️</a></div>
+              
   
 
 <h3 align="left">Connect with me:</h3>
