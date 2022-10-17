@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **Linux OSs, Bashscripting, PHP, Laravel, CCNA and Cyber Security.**
 
-- 📫 How to reach me **abanoub.samuel@hotmail.com**
+- 📫 How to reach me [https://www.linkedin.com/in/abanoubsamuel](https://www.linkedin.com/in/abanoubsamuel)
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/abanoubsamuel](https://www.linkedin.com/in/abanoubsamuel)
 
