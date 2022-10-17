@@ -21,7 +21,7 @@
 
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/abanoubsamuel)
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/abanoubsamuel](https://www.linkedin.com/in/abanoubsamuel)
+- 📄 Know about my experiences [Linkein](https://www.linkedin.com/in/abanoubsamuel)
 
    
               
