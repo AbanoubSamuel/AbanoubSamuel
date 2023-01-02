@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pentestersec&label=Profile%20views&color=0e75b6&style=flat" alt="pentestersec" /> </p>
 
-<p align="left"> <a href="https://twitter.com/abanoubsml" target="blank"><img src="https://img.shields.io/twitter/follow/abanoubsml?logo=twitter&style=for-the-badge" alt="abanoubsml" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Abanoub_Samuel" target="blank"><img src="https://img.shields.io/twitter/follow/abanoubsml?logo=twitter&style=for-the-badge" alt="abanoubsml" /></a> </p>
 
 - 🔭 I’m currently working on [Gym Managment System](https://github.com/PentesterSec/GMS)
 
