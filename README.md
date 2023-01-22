@@ -5,11 +5,11 @@ eventually I am looking to apply my knowledge and skills in a company that would
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pentestersec&label=Profile%20views&color=0e75b6&style=flat" alt="pentestersec" /> </p>
 
-<p align="left"> <a href="https://twitter.com/Abanoub__Samuel" target="blank"><img src="https://img.shields.io/twitter/follow/abanoubsml?logo=twitter&style=for-the-badge" alt="abanoubsml" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/abanoubsamuel/" target="blank"><img src="https://img.shields.io/twitter/follow/abanoubsml?logo=twitter&style=for-the-badge" alt="Abanoub Samuel" /></a> </p>
 
 - 🔭 I’m currently working on [Gym Managment System](https://github.com/PentesterSec/GMS)
 
-- 🌱 I’m currently learning **APIs with Laravel, JavaScript with MaharTech**
+- 🌱 I’m currently learning **Mobile Apps with Flutter**
 
 - 👯 I’m looking to collaborate on [ParrotSec Linux OS](https://nest.parrotsec.org/packages/parrot)
 
