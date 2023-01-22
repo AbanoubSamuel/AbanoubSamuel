@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abanoub</h1>
-<h3 align="center">A passionate Penetration Tester and CTF player who has a strong passion of Cyber Security and Red Teaming, learning continually to sharpen my Offensive Security skills, obtain my OSCP and put my hands on the first Cyber Security role.</h3>
+<h3 align="center">A professional Flutter developer and a Software Engineer with high skills in implementing user interfaces for mobile apps and
+integrating with APIs, working continually to sharpen my mobile development skills to fit the modern market business needs,
+eventually I am looking to apply my knowledge and skills in a company that would allow me to learn and evolve.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pentestersec&label=Profile%20views&color=0e75b6&style=flat" alt="pentestersec" /> </p>
 
