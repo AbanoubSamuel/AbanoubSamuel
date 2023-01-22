@@ -5,7 +5,7 @@ eventually I am looking to apply my knowledge and skills in a company that would
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pentestersec&label=Profile%20views&color=0e75b6&style=flat" alt="pentestersec" /> </p>
 
-<p align="left"> <a href="https://www.linkedin.com/in/abanoubsamuel/" target="blank"><img src="https://img.shields.io/twitter/follow/abanoubsml?logo=twitter&style=for-the-badge" alt="Abanoub Samuel" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/abanoubsamuel/" target="blank"><img src="https://media.licdn.com/dms/image/C5603AQECKOxvBo_KFA/profile-displayphoto-shrink_800_800/0/1656428913416?e=1680134400&v=beta&t=mKkPHEJVIzWQNkJzuJDYWTHr40gza1VBiQ-t8xt6-ys" alt="Abanoub Samuel" /></a> </p>
 
 - 🔭 I’m currently working on [Gym Managment System](https://github.com/PentesterSec/GMS)
 
