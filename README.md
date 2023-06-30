@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abanoub</h1>
-<h3 align="center">A professional Flutter developer and a Software Engineer with high skills in implementing user interfaces for mobile apps and
-integrating with APIs, working continually to sharpen my mobile development skills to fit the modern market business needs,
-eventually I am looking to apply my knowledge and skills in a company that would allow me to learn and evolve.</h3>
+<h3 align="center">A professional Java Back-End Developer with high skills in designing and implementing robust server-side solutions, working continually to enhance my expertise in back-end development to meet the demands of the modern market. Seeking opportunities to apply my knowledge and skills in a company that fosters learning and growth.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pentestersec&label=Profile%20views&color=0e75b6&style=flat" alt="pentestersec" /> </p>
 
