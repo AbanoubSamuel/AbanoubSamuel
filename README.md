@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abanoub</h1>
-<h3 align="center">A professional Java Back-End Developer with high skills in designing and implementing robust server-side solutions, working continually to enhance my expertise in back-end development to meet the demands of the modern market. Seeking opportunities to apply my knowledge and skills in a company that fosters learning and growth.</h3>
+<h3 align="center">A Passionate Java Back-End Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pentestersec&label=Profile%20views&color=0e75b6&style=flat" alt="pentestersec" /> </p>
 
