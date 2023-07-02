@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Gym Managment System](https://github.com/PentesterSec/GMS)
 
-- 🌱 I’m currently learning **Mobile Apps with Flutter**
+- 🌱 I’m currently learning **Web APIs with Java Spring Boot**
 
 - 👯 I’m looking to collaborate on [ParrotSec Linux OS](https://nest.parrotsec.org/packages/parrot)
 
