@@ -1,45 +1,55 @@
-<h1 align="center">Hi 👋, I'm Abanoub</h1>
-<h3 align="center">A Passionate Sr Back-End Developer</h3>
+# Hello, I'm [Abanoub] 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pentestersec&label=Profile%20views&color=0e75b6&style=flat" alt="pentestersec" /> </p>
+Welcome to my GitHub profile! I'm a passionate Back-End Java Developer with experience in building robust and scalable applications using Java and Spring Boot.
 
-<p align="left"> <a href="https://www.linkedin.com/in/abanoubsamuel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abanoubsamuel" height="30" width="40" /></a> </p>
+## About Me ℹ️
 
-- 🔭 I’m currently working on [Spring Boot Microservices App](https://github.com/AbanoubSamuel/Microservice)
+- 🔭 I’m currently working at [Accord Business Group].
+- 🌱 I’m constantly learning and improving my skills in Java and Spring ecosystem.
+- 💼 Looking for opportunities to collaborate on interesting projects and contribute to open source.
+- 📫 You can reach me at [https://www.linkedin.com/in/AbanoubSamuel].
 
-- 🌱 I’m currently learning **Web APIs with Java Spring Boot**
+## Skills 💻
 
-- 👯 I’m looking to collaborate on [ParrotSec Linux OS](https://nest.parrotsec.org/packages/parrot)
+- Java
+- Spring Framework (Spring Boot, Spring MVC, Spring Data, Spring Security)
+- RESTful APIs
+- Hibernate
+- SQL (MySQL, PostgreSQL)
+- Maven/Gradle
+- Git/GitHub
+- Linux
 
-- 🤝 I’m looking for help with [Transform my REstate web app to Node.js](https://github.com/PentesterSec/R-estate)
+## Projects 🚀
 
-- 👨‍💻 All of my projects are available at [https://github.com/PentesterSec](https://github.com/PentesterSec)
+Here are some of the projects I've worked on:
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/abanoubsml](https://www.linkedin.com/in/abanoubsml)
+1. [BatchApi](link to project](https://github.com/AbanoubSamuel/BatchApi) - Data batching processor using Spring Batch.
+2. [Project Name](link to project) - Brief description of the project.
+3. [Project Name](link to project) - Brief description of the project.
 
-- 💬 Ask me about **Linux OSs, Bashscripting, PHP, Laravel, CCNA and Cyber Security.**
+## Open Source Contributions 🌟
 
-- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/abanoubsamuel)
+I actively contribute to open source projects, including:
 
-- 📄 Know about my experiences [Linkein](https://www.linkedin.com/in/abanoubsamuel)
+1. [Project Name](link to project) - Brief description of your contribution.
+2. [Project Name](link to project) - Brief description of your contribution.
+3. [Project Name](link to project) - Brief description of your contribution.
 
-   
-              
-  
+## Blog Posts 📝
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/abanoubsml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abanoubsml" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/abanoubsamuel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abanoubsamuel" height="30" width="40" /></a>
-</p>
+I occasionally write about my experiences and insights in Back-End development. Here are some of my recent blog posts:
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.perl.org/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-perl.svg" alt="perl" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> </p>
+1. [Title of Blog Post](link to blog post) - Brief description of the blog post.
+2. [Title of Blog Post](link to blog post) - Brief description of the blog post.
+3. [Title of Blog Post](link to blog post) - Brief description of the blog post.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbanoubSamuel&show_icons=true&locale=en&layout=compact" alt="AbanoubSamuel" /></p>
+## Get in Touch 📬
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AbanoubSamuel&show_icons=true&locale=en" alt="AbanoubSamuel" /></p>
+Feel free to reach out to me if you have any questions, suggestions, or just want to connect! You can find me on [LinkedIn](link to LinkedIn profile) or email me at [your email address].
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AbanoubSamuel&" alt="AbanoubSamuel" /></p>
+## Let's Connect! 🤝
 
-
+- [LinkedIn](https://www.linkedin.com/in/AbanoubSamuel)
+- [Twitter](https://twitter.com/Abanoub__Samuel)
+- [Portfolio Website](https://abanoubsamuel.github.io/)
