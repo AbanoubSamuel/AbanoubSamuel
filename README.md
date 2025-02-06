@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate Back-End Java Developer with expe
 
 ## About Me ℹ️
 
-- 🔭 I’m currently working at [Accord Business Group].
+- 🔭 I’m currently working at [e& Egypt].
 - 🌱 I’m constantly learning and improving my skills in Java and Spring ecosystem.
 - 💼 Looking for opportunities to collaborate on interesting projects and contribute to open source.
 - 📫 You can reach me at [https://www.linkedin.com/in/AbanoubSamuel].
