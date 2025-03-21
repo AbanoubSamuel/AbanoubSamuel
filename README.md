@@ -24,9 +24,8 @@ Welcome to my GitHub profile! I'm a passionate Java Software Engineer with exper
 
 Here are some of the projects I've worked on:
 
-1. [BatchApi](link to project](https://github.com/AbanoubSamuel/BatchApi) - Data batching processor using Spring Batch.
-2. [Project Name](link to project) - Brief description of the project.
-3. [Project Name](link to project) - Brief description of the project.
+1. [SuperPay; POS for E-Payments | IPN | BNPL | Physical Card Payments].
+2. [SoE: An environmental AI integrated web portal. 
 
 ## Open Source Contributions 🌟
 
