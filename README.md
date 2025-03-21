@@ -1,6 +1,6 @@
 # Hello, I'm [Abanoub] 👋
 
-Welcome to my GitHub profile! I'm a passionate Back-End Java Software Engineer with experience in building robust and scalable applications using Java and Spring Boot.
+Welcome to my GitHub profile! I'm a passionate Java Software Engineer with experience in building robust and scalable applications using Java and Spring Boot.
 
 ## About Me ℹ️
 
